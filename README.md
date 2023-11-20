@@ -1,6 +1,6 @@
 # iOS Weather App
 
-![Weather App](https://github.com/taimo0r/WeatherApp/blob/main/Screenshots/Weather%20App.png)
+<img src="https://github.com/taimo0r/WeatherApp/blob/main/Screenshots/Weather%20App.png" alt="Weather App" width="400"/> 
 
 Welcome to the iOS Weather App repository! This app was developed as a project for the iOS App Development course at Fanshawe College, Canada. It provides users with real-time weather information for various cities and their current location.
 
@@ -13,13 +13,11 @@ Welcome to the iOS Weather App repository! This app was developed as a project f
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/taimo0r/WeatherApp/blob/main/Screenshots/Screenshot%201.png)
+<img src="https://github.com/taimo0r/WeatherApp/blob/main/Screenshots/Screenshot%201.png" alt="Screenshot 1" width="400"/>             <img src="https://github.com/taimo0r/WeatherApp/blob/main/Screenshots/Screenshot%202.png" alt="Screenshot 2" width="400"/> 
 
-![Screenshot 2](https://github.com/taimo0r/WeatherApp/blob/main/Screenshots/Screenshot%202.png)
 
-![Screenshot 3](https://github.com/taimo0r/WeatherApp/blob/main/Screenshots/Screenshot%203.png)
+<img src="https://github.com/taimo0r/WeatherApp/blob/main/Screenshots/Screenshot%203.png" alt="Screenshot 3" width="400"/>             <img src="https://github.com/taimo0r/WeatherApp/blob/main/Screenshots/Screenshot%204.png" alt="Screenshot 4" width="400"/> 
 
-![Screenshot 4](https://github.com/taimo0r/WeatherApp/blob/main/Screenshots/Screenshot%204.png)
 
 ## Technologies Used
 
