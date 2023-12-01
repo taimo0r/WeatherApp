@@ -22,7 +22,7 @@ Welcome to the iOS Weather App repository! This app was developed as a project f
 ## Technologies Used
 
 - Swift Programming Language
-- UIKit Framework
+- SwiftUI (Storyboard)
 - Core Location Framework
 - Networking with URLSession
 - Interface Builder (Storyboard)
